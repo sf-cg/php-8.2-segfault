@@ -11,7 +11,7 @@ The repo is essentially Laravel 10 init with some tests added and the php-vcr li
 - Install PHP 8.2 (any patch version should work, but I have tested this on 8.2.8)
 - clone this repository
 - Run `composer install`
-- run `./vendor/bun/phpunit` or `composer test`
+- run `./vendor/bin/phpunit` or `composer test`
 
 ### Outcome
 
